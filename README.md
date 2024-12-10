@@ -14,7 +14,7 @@ PDF Merger for Scanner is a tool that helps users combine scanned PDF files (fro
 ## Use the Executables (if you don't have Python or dependencies)
 
 If your computer doesn't have Python installed or you prefer not to install dependencies, you can use the ready-to-use executable files for **Linux** or **Windows**.  
-These executables are available in the `dist/` folder of the repository.
+These executables are available in the `releases` section of the repository.
 
 ## Requirements
 
